@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/client/GroupChat.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/client/MainFrame.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/client/Register.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/client/SingleChat.java" charset="UTF-8" />
+  </component>
+</project>
